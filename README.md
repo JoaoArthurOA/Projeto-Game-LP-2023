@@ -9,4 +9,5 @@ A música do jogo é no estilo breakcore, com batidas rápidas para combinar com
 A essência do jogo é retratar um ambiente urbano e movimentado, durante as fases causa a impressão de estar saltando por prédios e esgueirando em becos podendo ver a grande cidade ao fundo.
 
 Conceito do Protagonista.
+
 ![09752cd2-4a5f-462d-a31b-0ca54d9379c6](https://github.com/JoaoArthurOA/Projeto-Game-LP-2023/assets/101645963/b8f37f50-12f4-4c8b-ac89-7c6d61a063b5)
